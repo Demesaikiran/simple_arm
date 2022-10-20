@@ -12,3 +12,5 @@ In order for catking to generate the python modules or C++ Libraries which allow
 CMake is the build tool underlying catkin, and CMakeLists.txt is nothing more that a CMake script used by catkin.
 
 ![Robo_arm](https://user-images.githubusercontent.com/36018404/196932145-bbe66694-53d6-4325-a37f-139a7cabca36.gif)
+
+This is a simple demo of moving the two joints from -𝝅/2 to 𝝅/2 
